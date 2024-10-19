@@ -14,11 +14,11 @@ As dependências da biblioteca podem ser instaladas através do comando:
 ```
 
 ## Como Usar
-** Encontrar Diferenças Entre Imagens: Compara duas imagens de entrada e calcula a similaridade entre elas, retornando uma imagem com as diferenças normalizadas.
+- Encontrar Diferenças Entre Imagens: Compara duas imagens de entrada e calcula a similaridade entre elas, retornando uma imagem com as diferenças normalizadas.
 
-** Transferir Histogramas: Transfere o histograma de uma imagem para outra, permitindo a harmonização das cores.
+- Transferir Histogramas: Transfere o histograma de uma imagem para outra, permitindo a harmonização das cores.
 
-** Redimensionamento de Imagens: Permite ajustar o tamanho de uma imagem proporcionalmente, especificando a porcentagem de redução ou ampliação.
+- Redimensionamento de Imagens: Permite ajustar o tamanho de uma imagem proporcionalmente, especificando a porcentagem de redução ou ampliação.
 
 ## Requisitos
 Esta biblioteca requer as seguintes dependências:
